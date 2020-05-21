@@ -1,4 +1,4 @@
-# Start programming in Java, topic constructors
+# Start programming in Java
 
 Code written in Java by using InelliJ :keyboard:
 
